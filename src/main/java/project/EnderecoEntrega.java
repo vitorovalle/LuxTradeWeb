@@ -9,7 +9,6 @@ import java.util.Date;
 import javax.swing.JFrame;
 import javax.swing.table.DefaultTableModel;
 import static project.Principal.logger;
-import boleto.GeraBoleto;
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
 import java.io.IOException;
